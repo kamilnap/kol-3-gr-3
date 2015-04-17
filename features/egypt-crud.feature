@@ -66,7 +66,6 @@ Feature: I would like to edit egypt
     Then I should not see "<egypt>"
 
   Examples:
-    |  egypt      |
-    | eram        |
+    | egypt       |
     | N-E-W-E-D-F |
     | N-E-W-E-R-A |
