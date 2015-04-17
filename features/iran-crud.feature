@@ -48,7 +48,7 @@ Feature: I would like to edit iran
 
   Examples:
     | old-iran     | new-iran  | new-description    | new-price |
-    | Boak         | Lakin     | 9876               |  253235   |      
+    | Boak         | Lakin     | opis Lakin         |  253235   |      
 
   Scenario Outline: Delete records
    Given I am on homepage
