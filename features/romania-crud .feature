@@ -68,6 +68,6 @@ Feature: I would like to edit romania
 
   Examples:
     |  romania    |
-    | Arad        |
+    | Bucharest   |
     | Deva        |
     | Carei       |
