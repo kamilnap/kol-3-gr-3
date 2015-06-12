@@ -21,7 +21,7 @@ Feature: I would like to edit spain
     | spain             | description               | size  |
     | Barcelona         | to jest opis barcelony    | 123   |
     | Madryt            | to jest opis madrytu      | 345   |
-    | Valencja          | to jest opis valencji     | 678   |
+    | Valencia          | to jest opis valencji     | 678   |
 
 
 
